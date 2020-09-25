@@ -1,0 +1,1 @@
+{"version":3,"file":"PauseIcon.d.ts","sourceRoot":"","sources":["../../src/icon/PauseIcon.tsx"],"names":[],"mappings":"AAAA,OAAO,KAAK,KAAK,MAAM,OAAO,CAAC;AAC/B,OAAO,EAAE,aAAa,EAAW,MAAM,uBAAuB,CAAC;AAE/D,MAAM,WAAW,eAAgB,SAAQ,aAAa;CAErD;AAED,qBAAa,SAAU,SAAQ,KAAK,CAAC,SAAS,CAAC,eAAe,CAAC;IAC3D,MAAM;CAST"}

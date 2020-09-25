@@ -1,0 +1,1 @@
+{"version":3,"file":"Option.js","sourceRoot":"","sources":["../../src/control/Option.tsx"],"names":[],"mappings":"AAAA,OAAO,KAAK,KAAK,MAAM,OAAO,CAAC;AAC/B,OAAO,EAAkB,QAAQ,EAAE,MAAM,iBAAiB,CAAC;AAM3D,MAAM,OAAO,MAAO,SAAQ,KAAK,CAAC,SAAuB;IACrD,MAAM;QACF,OAAO,oBAAC,QAAQ,oBAAK,IAAI,CAAC,KAAK,EAAI,CAAC;IACxC,CAAC;CACJ"}
